@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/File/Documents/ComGame/NoobBubble/PuzzleBobbleHell/Content/Audio/backgroundmusic.mp3</SourceFile>
+  <SourceTime>2024-01-25T19:58:25.4137951+07:00</SourceTime>
+  <DestFile>D:/File/Documents/ComGame/NoobBubble/PuzzleBobbleHell/Content/bin/DesktopGL/Content/Audio/backgroundmusic.xnb</DestFile>
+  <DestTime>2024-01-28T00:11:53.234454+07:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T18:44:56+07:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T18:44:56+07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/File/Documents/ComGame/NoobBubble/PuzzleBobbleHell/Content/bin/DesktopGL/Content/Audio/backgroundmusic.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
